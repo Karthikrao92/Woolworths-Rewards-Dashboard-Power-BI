@@ -25,12 +25,19 @@ Users can filter by year (2023 or 2024) to analyze trends dynamically. Visuals a
 **Development Notes:**
 
 • Built using Microsoft Power BI
+
 • Power Query used for cleaning and shaping data
+
 • Clean, brand-aligned visuals using Woolworths colors and icons
 
-Insights You Can Derive:
+**Insights You Can Derive:**
+
 • Track customer engagement and loyalty trends over time
+
 • Identify top-performing store locations and redemption channels
+
 • Analyze customer lifecycle status (active, inactive, suspended)
+
 • Understand redemption preferences to improve reward offerings
+
 • Spot high-value customers and locations with underutilized rewards
