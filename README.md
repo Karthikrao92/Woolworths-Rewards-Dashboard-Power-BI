@@ -5,11 +5,17 @@ This interactive Power BI dashboard offers a detailed view of customer behavior 
 **Visual Highlights:**
 
 • Customer Registration Trend: Line chart showing monthly sign-ups
+
 • Points by Time: Dual-axis chart tracking points earned vs. redeemed over time
+
 • Top Store Locations: Treemap showing locations by total points earned
+
 • Points Redeemed by Type: Donut chart visualizing usage (shopping, fuel, Qantas, donations)
+
 • Customer Membership Status: Pie chart showing active, inactive, and suspended users
+
 • Top Redeemers: Horizontal bar chart of customers with highest redemptions
+
 • Points vs. Redemption Analysis: Scatter plot comparing performance across locations
 
 **Interactivity & Usability:**
